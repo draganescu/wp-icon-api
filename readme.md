@@ -2,6 +2,13 @@
 
 [See the discussion hosted by the Gutenberg repository](https://github.com/WordPress/gutenberg/discussions/53510)
 
+
+
+
+https://github.com/draganescu/wp-icon-api/assets/107534/db30ea3f-fa21-441c-9347-920819d7a30b
+
+
+
 ### Icons!
 
 Icons communicate condensed information and expectations of what happens after an action.  Given that the site editor is a design tool, for professionals and enthusiasts alike, there are countless situations that require a good icon: a call to action button that shows some love, a menu item that is special for 15 days, the visual highlight of a blog with well curated quotes, landing page sections that allow better conversions because icons make skimming easier, a quick logo solution, I could go on and on.
