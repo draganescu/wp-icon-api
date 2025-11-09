@@ -1,0 +1,29 @@
+/**
+ * Editor styles for WP Icon API block.
+ *
+ * @package WP_Icon_API
+ * @since 0.1.0
+ */
+
+.wp-icon-api-icon-block {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding: 8px;
+	margin: 0;
+}
+
+.wp-icon-api-icon-block svg {
+	width: 24px;
+	height: 24px;
+	display: block;
+	transition: transform 0.2s ease;
+}
+
+.wp-icon-api-icon-block:hover svg {
+	transform: scale(1.1);
+}
+
+.wp-icon-api-icon-block .wp-block-wp-icon-api-icon-block {
+	margin: 0;
+}
